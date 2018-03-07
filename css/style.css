@@ -1,0 +1,49 @@
+        .jumbotron {
+            background-color: #000000;
+
+        }
+
+        .container {
+            text-align: center;
+
+        }
+
+        h1 {
+            color: #f04747;
+        }
+
+        h2 {
+            color: #275f5f;
+        }
+
+        h3 {
+            color: #773e77;
+
+        }
+
+        h4 {
+            color: #773e77;
+        }
+
+        .img-fluid {
+            min-width: 100%;
+            height: auto;
+            padding-top: 60px;
+        }
+
+        .content {
+            display: text-align: center;
+        }
+
+        .thumbnail img {
+            height: auto;
+            width: 100%;
+            padding-bottom: 50px;
+        }
+
+        .page-footer {
+            min-height: 100%;
+            color: #000;
+            background-color: #17A2B8;
+            text-align: center;
+        }
